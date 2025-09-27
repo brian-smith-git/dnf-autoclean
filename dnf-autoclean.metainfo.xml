@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>org.brian-smith.dnf-autoclean</id>
+  <name>DNF AutoClean</name>
+  <summary>Automatically clean old kernels and orphan packages</summary>
+  <description>
+    <p>
+      DNF AutoClean helps you keep your Fedora system tidy by removing old kernels,
+      orphan packages, and running autoremove regularly. It includes a GTK GUI and
+      integrates with GNOME Software.
+    </p>
+  </description>
+  <launchable type="desktop-id">dnf-autoclean.desktop</launchable>
+  <provides>
+    <binary>dnf-autoclean.py</binary>
+  </provides>
+</component>

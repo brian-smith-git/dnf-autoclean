@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=DNF AutoClean
+Exec=dnf-autoclean-gui
+Icon=dnf-autoclean
+Type=Application
+Categories=System;Settings;
