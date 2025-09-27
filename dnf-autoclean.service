@@ -1,6 +1,6 @@
 [Unit]
-Description=DNF AutoClean Service
+Description=DNF AutoClean service
 
 [Service]
 Type=oneshot
-ExecStart=/usr/local/bin/dnf-autoclean.py
+ExecStart=/usr/bin/dnf-autoclean

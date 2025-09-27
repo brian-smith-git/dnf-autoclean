@@ -1,5 +1,5 @@
 [Unit]
-Description=Run DNF AutoClean weekly
+Description=Run dnf-autoclean weekly
 
 [Timer]
 OnCalendar=weekly
