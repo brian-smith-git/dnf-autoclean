@@ -1,6 +1,5 @@
 # 🧹 DNF AutoClean
 
-[![Build Status](https://github.com/brian-smith-git/dnf-autoclean/actions/workflows/build.yml/badge.svg)](https://github.com/brian-smith-git/dnf-autoclean/actions)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
 [![Fedora](https://img.shields.io/badge/Supported-Fedora%2038%2B-blue)](https://getfedora.org/)  
 
