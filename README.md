@@ -15,7 +15,7 @@ A lightweight Fedora tool that automatically removes unused DNF packages and old
 
 ## Requirements
 
-- Fedora 38+ (or compatible)
+- Fedora 43 (or compatible)
 - dnf available on the system
 - systemd
 
